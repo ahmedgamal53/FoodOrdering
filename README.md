@@ -28,16 +28,28 @@ Food Ordering is a production-ready food ordering app that supports two roles:
 
 </div>
     
-👤 User Flow
-<p align="center">
-MenuProduct DetailCartCart (Multiple)<img src="https://github.com/user-attachments/assets/4b7d0183-0522-41c4-8e48-776d2d5210fa" width="180"/><img src="https://github.com/user-attachments/assets/700fe01f-13d4-4b90-aa3b-80ba05a094ee" width="180"/><img src="https://github.com/user-attachments/assets/c1610b8e-847a-4d8a-87fb-9d4ec62ae10d" width="180"/><img src="https://github.com/user-attachments/assets/94711854-d922-475b-9fbf-cf84db980266" width="180"/>
-Orders ListOrder DetailArchive<img src="https://github.com/user-attachments/assets/12467991-ac1e-4fe4-baba-fb8b6e29d6c4" width="180"/><img src="https://github.com/user-attachments/assets/12467991-ac1e-4fe4-baba-fb8b6e29d6c4" width="180"/><img src="https://github.com/user-attachments/assets/c901c887-05d0-443d-8260-91f8fc8f45d2" width="180"/>
-    </P>
-🛠️ Admin Flow
-<p align="center">
-MenuProduct DetailUpdate ProductCreate Product<img src="https://github.com/user-attachments/assets/fe5d55e0-1e38-4474-9b9c-9a55808b4867" width="180"/><img src="https://github.com/user-attachments/assets/b9d26fca-462d-45df-8259-da5834a57045" width="180"/><img src="https://github.com/user-attachments/assets/84cbf3c0-788f-4af3-8714-3fbe85301d8a" width="180"/><img src="https://github.com/user-attachments/assets/0abb5521-d61e-4a25-929d-676b719072f5" width="180"/>
-Order Status Control<img src="https://github.com/user-attachments/assets/7d490148-2e23-4610-9def-b8dbcc8fd01a" width="180"/>
-</p>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+
+  <h3>👤 User Flow</h3>
+
+  <p>Menu - Product Detail - Cart - Cart (Multiple)</p>
+
+  <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+    <img src="https://github.com/user-attachments/assets/4b7d0183-0522-41c4-8e48-776d2d5210fa" width="180"/>
+    <img src="https://github.com/user-attachments/assets/700fe01f-13d4-4b90-aa3b-80ba05a094ee" width="180"/>
+    <img src="https://github.com/user-attachments/assets/c1610b8e-847a-4d8a-87fb-9d4ec62ae10d" width="180"/>
+    <img src="https://github.com/user-attachments/assets/94711854-d922-475b-9fbf-cf84db980266" width="180"/>
+  </div>
+
+  <p>Orders List - Order Detail - Archive</p>
+
+  <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+    <img src="https://github.com/user-attachments/assets/12467991-ac1e-4fe4-baba-fb8b6e29d6c4" width="180"/>
+    <img src="https://github.com/user-attachments/assets/12467991-ac1e-4fe4-baba-fb8b6e29d6c4" width="180"/>
+    <img src="https://github.com/user-attachments/assets/c901c887-05d0-443d-8260-91f8fc8f45d2" width="180"/>
+  </div>
+
+</div>
 ## ✨ Features
 
 ### 👤 User Features
