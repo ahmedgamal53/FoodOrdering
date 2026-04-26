@@ -1,4 +1,4 @@
-<img width="591" height="1280" alt="photo_2026-04-26_06-39-19" src="https://github.com/user-attachments/assets/fe71f705-4991-4011-87e2-3b922d82dd5d" />
+
 #  Food Ordering — React Native App
 
 A full-stack **mobile pizza ordering application** built with **React Native (Expo)** and **Supabase**, featuring role-based access control, real-time order tracking, and a complete admin dashboard.
@@ -30,15 +30,22 @@ Food Ordering is a production-ready food ordering app that supports two roles:
 
 | Menu | Product Detail | Cart |
 |------|---------------|------|
-| ![Menu](screenshots/user-menu.jpg) | ![Product](screenshots/user-product.jpg) | ![Cart](screenshots/user-cart.jpg) |
+| ![Menu](<img width="591" height="1280" alt="photo_6_2026-04-26_06-37-24" src="https://github.com/user-attachments/assets/4b7d0183-0522-41c4-8e48-776d2d5210fa" />
+) | ![Product](<img width="591" height="1280" alt="photo_7_2026-04-26_06-37-24" src="https://github.com/user-attachments/assets/700fe01f-13d4-4b90-aa3b-80ba05a094ee" />
+) | ![Cart](<img width="591" height="1280" alt="photo_8_2026-04-26_06-37-24" src="https://github.com/user-attachments/assets/c1610b8e-847a-4d8a-87fb-9d4ec62ae10d" />
+
+) |
 
 | Cart (Multiple Items) | Orders List | Order Detail |
 |----------------------|-------------|--------------|
-| ![Cart Multi](screenshots/user-cart-multi.jpg) | ![Orders](screenshots/user-orders.jpg) | ![Order Detail](screenshots/user-order-detail.jpg) |
+| ![Cart Multi](<img width="591" height="1280" alt="photo_9_2026-04-26_06-37-24" src="https://github.com/user-attachments/assets/94711854-d922-475b-9fbf-cf84db980266" />
+) | ![Orders](screenshots/user-orders.jpg) | ![Order Detail](<img width="591" height="1280" alt="photo_12_2026-04-26_06-37-24" src="https://github.com/user-attachments/assets/12467991-ac1e-4fe4-baba-fb8b6e29d6c4" />
+) |
 
 | Archive |
 |---------|
-| ![Archive](screenshots/user-archive.jpg) |
+| ![Archive](<img width="591" height="1280" alt="photo_14_2026-04-26_06-37-24" src="https://github.com/user-attachments/assets/c901c887-05d0-443d-8260-91f8fc8f45d2" />
+) |
 
 ---
 
@@ -46,11 +53,16 @@ Food Ordering is a production-ready food ordering app that supports two roles:
 
 | Menu (Admin) | Product Detail | Update Product | Create Product |
 |-------------|----------------|----------------|----------------|
-| ![Admin Menu](screenshots/admin-menu.jpg) | ![Admin Product](screenshots/admin-product.jpg) | ![Update](screenshots/admin-update.jpg) | ![Create](screenshots/admin-create.jpg) |
+| ![Admin Menu](<img width="591" height="1280" alt="photo_2_2026-04-26_06-37-24" src="https://github.com/user-attachments/assets/fe5d55e0-1e38-4474-9b9c-9a55808b4867" />
+) | ![Admin Product](<img width="591" height="1280" alt="photo_3_2026-04-26_06-37-24" src="https://github.com/user-attachments/assets/b9d26fca-462d-45df-8259-da5834a57045" />
+) | ![Update](<img width="591" height="1280" alt="photo_4_2026-04-26_06-37-24" src="https://github.com/user-attachments/assets/84cbf3c0-788f-4af3-8714-3fbe85301d8a" />
+) | ![Create](<img width="591" height="1280" alt="photo_5_2026-04-26_06-37-24" src="https://github.com/user-attachments/assets/0abb5521-d61e-4a25-929d-676b719072f5" />
+) |
 
-| Orders List | Order Status |
+|  Order Status |
 |-------------|-------------|
-| ![Admin Orders](screenshots/admin-orders.jpg) | ![Admin Status](screenshots/admin-status.jpg) |
+| ![Admin Status](<img width="591" height="1280" alt="photo_13_2026-04-26_06-37-24" src="https://github.com/user-attachments/assets/7d490148-2e23-4610-9def-b8dbcc8fd01a" />
+) |
 
 ---
 
