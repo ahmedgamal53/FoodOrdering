@@ -16,9 +16,18 @@ Food Ordering is a production-ready food ordering app that supports two roles:
 
 📱 Screenshots
 🔐 Authentication
-<p align="center">
-Sign InRole Selection<img src="https://github.com/user-attachments/assets/583cbb91-b778-468e-b4ca-4cef47589338" width="200"/><img src="https://github.com/user-attachments/assets/528bc15d-2814-43f0-86ff-400566438e27" width="200"/>
-    </p>
+
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+  
+  <h3>Sign In Role Selection</h3>
+
+  <div style="display: flex; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/583cbb91-b778-468e-b4ca-4cef47589338" width="200"/>
+    <img src="https://github.com/user-attachments/assets/528bc15d-2814-43f0-86ff-400566438e27" width="200"/>
+  </div>
+
+</div>
+    
 👤 User Flow
 <p align="center">
 MenuProduct DetailCartCart (Multiple)<img src="https://github.com/user-attachments/assets/4b7d0183-0522-41c4-8e48-776d2d5210fa" width="180"/><img src="https://github.com/user-attachments/assets/700fe01f-13d4-4b90-aa3b-80ba05a094ee" width="180"/><img src="https://github.com/user-attachments/assets/c1610b8e-847a-4d8a-87fb-9d4ec62ae10d" width="180"/><img src="https://github.com/user-attachments/assets/94711854-d922-475b-9fbf-cf84db980266" width="180"/>
