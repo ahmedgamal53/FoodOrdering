@@ -14,57 +14,17 @@ Food Ordering is a production-ready food ordering app that supports two roles:
 
 ---
 
-## 📱 Screenshots
+📱 Screenshots
+🔐 Authentication
+Sign InRole Selection<img src="https://github.com/user-attachments/assets/583cbb91-b778-468e-b4ca-4cef47589338" width="200"/><img src="https://github.com/user-attachments/assets/528bc15d-2814-43f0-86ff-400566438e27" width="200"/>
 
-### 🔐 Authentication
+👤 User Flow
+MenuProduct DetailCartCart (Multiple)<img src="https://github.com/user-attachments/assets/4b7d0183-0522-41c4-8e48-776d2d5210fa" width="180"/><img src="https://github.com/user-attachments/assets/700fe01f-13d4-4b90-aa3b-80ba05a094ee" width="180"/><img src="https://github.com/user-attachments/assets/c1610b8e-847a-4d8a-87fb-9d4ec62ae10d" width="180"/><img src="https://github.com/user-attachments/assets/94711854-d922-475b-9fbf-cf84db980266" width="180"/>
+Orders ListOrder DetailArchive<img src="https://github.com/user-attachments/assets/12467991-ac1e-4fe4-baba-fb8b6e29d6c4" width="180"/><img src="https://github.com/user-attachments/assets/12467991-ac1e-4fe4-baba-fb8b6e29d6c4" width="180"/><img src="https://github.com/user-attachments/assets/c901c887-05d0-443d-8260-91f8fc8f45d2" width="180"/>
 
-| Sign In | Role Selection |
-|---------|----------------|
-| ![Sign In](<img width="591" height="1280" alt="photo_2026-04-26_06-39-19" src="https://github.com/user-attachments/assets/583cbb91-b778-468e-b4ca-4cef47589338" />
-) | ![Index](<img width="591" height="1280" alt="photo_1_2026-04-26_06-37-24" src="https://github.com/user-attachments/assets/528bc15d-2814-43f0-86ff-400566438e27" />
-) |
-
----
-
-### 👤 User Flow
-
-| Menu | Product Detail | Cart |
-|------|---------------|------|
-| ![Menu](<img width="591" height="1280" alt="photo_6_2026-04-26_06-37-24" src="https://github.com/user-attachments/assets/4b7d0183-0522-41c4-8e48-776d2d5210fa" />
-) | ![Product](<img width="591" height="1280" alt="photo_7_2026-04-26_06-37-24" src="https://github.com/user-attachments/assets/700fe01f-13d4-4b90-aa3b-80ba05a094ee" />
-) | ![Cart](<img width="591" height="1280" alt="photo_8_2026-04-26_06-37-24" src="https://github.com/user-attachments/assets/c1610b8e-847a-4d8a-87fb-9d4ec62ae10d" />
-
-) |
-
-| Cart (Multiple Items) | Orders List | Order Detail |
-|----------------------|-------------|--------------|
-| ![Cart Multi](<img width="591" height="1280" alt="photo_9_2026-04-26_06-37-24" src="https://github.com/user-attachments/assets/94711854-d922-475b-9fbf-cf84db980266" />
-) | ![Orders](screenshots/user-orders.jpg) | ![Order Detail](<img width="591" height="1280" alt="photo_12_2026-04-26_06-37-24" src="https://github.com/user-attachments/assets/12467991-ac1e-4fe4-baba-fb8b6e29d6c4" />
-) |
-
-| Archive |
-|---------|
-| ![Archive](<img width="591" height="1280" alt="photo_14_2026-04-26_06-37-24" src="https://github.com/user-attachments/assets/c901c887-05d0-443d-8260-91f8fc8f45d2" />
-) |
-
----
-
-### 🛠️ Admin Flow
-
-| Menu (Admin) | Product Detail | Update Product | Create Product |
-|-------------|----------------|----------------|----------------|
-| ![Admin Menu](<img width="591" height="1280" alt="photo_2_2026-04-26_06-37-24" src="https://github.com/user-attachments/assets/fe5d55e0-1e38-4474-9b9c-9a55808b4867" />
-) | ![Admin Product](<img width="591" height="1280" alt="photo_3_2026-04-26_06-37-24" src="https://github.com/user-attachments/assets/b9d26fca-462d-45df-8259-da5834a57045" />
-) | ![Update](<img width="591" height="1280" alt="photo_4_2026-04-26_06-37-24" src="https://github.com/user-attachments/assets/84cbf3c0-788f-4af3-8714-3fbe85301d8a" />
-) | ![Create](<img width="591" height="1280" alt="photo_5_2026-04-26_06-37-24" src="https://github.com/user-attachments/assets/0abb5521-d61e-4a25-929d-676b719072f5" />
-) |
-
-|  Order Status |
-|-------------|-------------|
-| ![Admin Status](<img width="591" height="1280" alt="photo_13_2026-04-26_06-37-24" src="https://github.com/user-attachments/assets/7d490148-2e23-4610-9def-b8dbcc8fd01a" />
-) |
-
----
+🛠️ Admin Flow
+MenuProduct DetailUpdate ProductCreate Product<img src="https://github.com/user-attachments/assets/fe5d55e0-1e38-4474-9b9c-9a55808b4867" width="180"/><img src="https://github.com/user-attachments/assets/b9d26fca-462d-45df-8259-da5834a57045" width="180"/><img src="https://github.com/user-attachments/assets/84cbf3c0-788f-4af3-8714-3fbe85301d8a" width="180"/><img src="https://github.com/user-attachments/assets/0abb5521-d61e-4a25-929d-676b719072f5" width="180"/>
+Order Status Control<img src="https://github.com/user-attachments/assets/7d490148-2e23-4610-9def-b8dbcc8fd01a" width="180"/>
 
 ## ✨ Features
 
