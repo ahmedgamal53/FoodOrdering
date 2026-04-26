@@ -72,9 +72,10 @@ const CartProvider = ({ children }: PropsWithChildren) => {
 
   const checkout = () => {
     insertOrder(
-      { total },
+      { total: Math.round(total) },
       {
         onSuccess: saveOrderItems,
+        onError: (error) => console.error(error),
       },
     );
   };

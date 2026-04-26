@@ -22,20 +22,31 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.ahmed_gamal22233.FoodOrdring"
     },
     "web": {
       "bundler": "metro",
       "output": "static",
       "favicon": "./assets/images/favicon.png"
     },
-    "plugins": [
-      "expo-router",
-      "expo-secure-store"
-    ],
+    "plugins": ["expo-router"],
     "experiments": {
       "typedRoutes": true,
       "tsconfigPaths": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "ed9a69a6-305e-4efb-9152-7bdc3c4d57df"
+      }
+    },
+    "owner": "ahmed_gamal22233",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/ed9a69a6-305e-4efb-9152-7bdc3c4d57df"
     }
   }
 }
