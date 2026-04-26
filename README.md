@@ -1,3 +1,4 @@
+<img width="591" height="1280" alt="photo_2026-04-26_06-39-19" src="https://github.com/user-attachments/assets/fe71f705-4991-4011-87e2-3b922d82dd5d" />
 #  Food Ordering — React Native App
 
 A full-stack **mobile pizza ordering application** built with **React Native (Expo)** and **Supabase**, featuring role-based access control, real-time order tracking, and a complete admin dashboard.
@@ -6,7 +7,7 @@ A full-stack **mobile pizza ordering application** built with **React Native (Ex
 
 ## 🚀 Overview
 
-Pizza S7S is a production-ready food ordering app that supports two roles:
+Food Ordering is a production-ready food ordering app that supports two roles:
 
 - **User** — Browse the menu, add items to cart, place orders, and track order status in real time
 - **Admin** — Manage products (create, update, delete), view all orders, and update order statuses
@@ -19,7 +20,9 @@ Pizza S7S is a production-ready food ordering app that supports two roles:
 
 | Sign In | Role Selection |
 |---------|----------------|
-| ![Sign In](screenshots/sign-in.jpg) | ![Index](screenshots/index.jpg) |
+| ![Sign In](<img width="591" height="1280" alt="photo_2026-04-26_06-39-19" src="https://github.com/user-attachments/assets/583cbb91-b778-468e-b4ca-4cef47589338" />
+) | ![Index](<img width="591" height="1280" alt="photo_1_2026-04-26_06-37-24" src="https://github.com/user-attachments/assets/528bc15d-2814-43f0-86ff-400566438e27" />
+) |
 
 ---
 
