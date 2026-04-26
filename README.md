@@ -47,6 +47,8 @@ Food Ordering is a production-ready food ordering app that supports two roles:
     <img src="https://github.com/user-attachments/assets/12467991-ac1e-4fe4-baba-fb8b6e29d6c4" width="180"/>
     <img src="https://github.com/user-attachments/assets/12467991-ac1e-4fe4-baba-fb8b6e29d6c4" width="180"/>
     <img src="https://github.com/user-attachments/assets/c901c887-05d0-443d-8260-91f8fc8f45d2" width="180"/>
+   <img width="591" height="1280" alt="photo_13_2026-04-26_06-37-24" src="https://github.com/user-attachments/assets/591dedfd-f58c-4104-9fcb-687c03b3deb0" />
+
   </div>
 
 </div>
